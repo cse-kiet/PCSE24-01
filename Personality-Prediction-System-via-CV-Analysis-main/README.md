@@ -1,4 +1,4 @@
-# Personality Prediction System
+# Personality Prediction Through CV Analysis Using ML
 
 ## Project Overview
 
